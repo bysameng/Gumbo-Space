@@ -1,4 +1,5 @@
 # Gumbo-Space
 the gumbo space
 
-Images/gumbospaceimage.jpg
+
+![Gumbo Space](/Images/gumbospaceimage.png)
