@@ -2,4 +2,4 @@
 the gumbo space
 
 
-![Gumbo Space](/Images/gumbospaceimage.png)
+![Gumbo Space Image](/Images/gumbospaceimage.jpg)
